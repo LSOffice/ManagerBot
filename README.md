@@ -1,0 +1,2 @@
+# ManagerBot
+Manager discord bot
