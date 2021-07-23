@@ -1,0 +1,127 @@
+14:31:13 [Setup] config.txt already exists, skipping [1] line of code
+14:31:13 [Setup] 2020-09-07_log.txt already exists, skipping [1] line of code
+14:31:13 [Setup] users.json.txt already exists, skipping [1] line of code
+14:31:13 [Setup] settings.json.txt already exists, skipping [1] line of code
+14:31:13 [Setup] prefix.json already exists, skipping [1] line of code
+14:31:13 [Setup] settings.json.txt already exists, skipping [1] line of code
+14:31:13 [Setup] settings.json.txt already exists, skipping [1] line of code
+14:31:13 [Setup] settings.json.txt already exists, skipping [1] line of code
+14:31:14 [Setup] cogs.reaction_roles was loaded.
+14:31:14 [Setup] cogs.events was loaded.
+14:31:14 [Setup] cogs.moderation was loaded.
+14:31:14 [Setup] cogs.levels was loaded.
+14:31:14 [Setup] cogs.help was loaded.
+14:31:14 [Setup] cogs.commands was loaded.
+14:31:18 [Status] Changed to Playing !help
+14:31:18 [Bot] Ready
+14:31:48 [Status] Changed to Playing with new commands
+14:32:18 [Status] Changed to Playing with the Manager wiki
+14:32:48 [Status] Changed to Playing !help
+14:33:18 [Status] Changed to Playing with new commands
+14:33:48 [Status] Changed to Playing with the Manager wiki
+14:34:07 [Setup] cogs.reactionroles was unloaded.
+14:34:07 [Error] System has set off ErroNo[4] - cogs.reactionroles failed to load.
+14:34:18 [Status] Changed to Playing !help
+14:34:46 [Setup] cogs.reaction_roles was unloaded.
+14:34:46 [Setup] cogs.reaction_roles was loaded.
+14:34:48 [Status] Changed to Playing with new commands
+14:35:18 [Status] Changed to Playing with the Manager wiki
+14:35:48 [Status] Changed to Playing !help
+14:36:18 [Status] Changed to Playing with new commands
+14:36:48 [Status] Changed to Playing with the Manager wiki
+14:37:18 [Status] Changed to Playing !help
+14:37:44 [Setup] cogs.reaction_roles was unloaded.
+14:37:44 [Setup] cogs.reaction_roles was loaded.
+14:37:48 [Status] Changed to Playing with new commands
+14:38:05 [Setup] config.txt already exists, skipping [1] line of code
+14:38:05 [Setup] 2020-09-07_log.txt already exists, skipping [1] line of code
+14:38:05 [Setup] 2020-09-07_auditlog.txt already exists, skipping [1] line of code
+14:38:05 [Setup] users.json.txt already exists, skipping [1] line of code
+14:38:05 [Setup] settings.json.txt already exists, skipping [1] line of code
+14:38:05 [Setup] prefix.json already exists, skipping [1] line of code
+14:38:05 [Setup] settings.json.txt already exists, skipping [1] line of code
+14:38:05 [Setup] settings.json.txt already exists, skipping [1] line of code
+14:38:05 [Setup] settings.json.txt already exists, skipping [1] line of code
+14:38:06 [Setup] cogs.reaction_roles was loaded.
+14:38:06 [Setup] cogs.events was loaded.
+14:38:06 [Setup] cogs.moderation was loaded.
+14:38:06 [Setup] cogs.levels was loaded.
+14:38:06 [Setup] cogs.help was loaded.
+14:38:06 [Setup] cogs.commands was loaded.
+14:38:10 [Status] Changed to Playing !help
+14:38:10 [Bot] Ready
+14:38:40 [Status] Changed to Playing with new commands
+14:39:10 [Status] Changed to Playing with the Manager wiki
+14:39:40 [Status] Changed to Playing !help
+14:40:10 [Status] Changed to Playing with new commands
+14:40:40 [Status] Changed to Playing with the Manager wiki
+14:41:10 [Status] Changed to Playing !help
+14:41:28 [Setup] cogs.reaction_roles was unloaded.
+14:41:28 [Setup] cogs.reaction_roles was loaded.
+14:41:40 [Status] Changed to Playing with new commands
+14:42:10 [Status] Changed to Playing with the Manager wiki
+14:42:40 [Status] Changed to Playing !help
+14:43:09 [Setup] config.txt already exists, skipping [1] line of code
+14:43:09 [Setup] 2020-09-07_log.txt already exists, skipping [1] line of code
+14:43:09 [Setup] 2020-09-07_auditlog.txt already exists, skipping [1] line of code
+14:43:09 [Setup] users.json.txt already exists, skipping [1] line of code
+14:43:09 [Setup] settings.json.txt already exists, skipping [1] line of code
+14:43:09 [Setup] prefix.json already exists, skipping [1] line of code
+14:43:09 [Setup] settings.json.txt already exists, skipping [1] line of code
+14:43:09 [Setup] settings.json.txt already exists, skipping [1] line of code
+14:43:09 [Setup] settings.json.txt already exists, skipping [1] line of code
+14:43:10 [Setup] cogs.reaction_roles was loaded.
+14:43:10 [Setup] cogs.events was loaded.
+14:43:10 [Setup] cogs.moderation was loaded.
+14:43:10 [Setup] cogs.levels was loaded.
+14:43:10 [Setup] cogs.help was loaded.
+14:43:10 [Setup] cogs.commands was loaded.
+14:43:14 [Status] Changed to Playing !help
+14:43:14 [Bot] Ready
+14:43:44 [Status] Changed to Playing with new commands
+14:44:14 [Status] Changed to Playing with the Manager wiki
+14:44:44 [Status] Changed to Playing !help
+14:45:14 [Status] Changed to Playing with new commands
+14:45:44 [Status] Changed to Playing with the Manager wiki
+14:46:05 [Setup] config.txt already exists, skipping [1] line of code
+14:46:05 [Setup] 2020-09-07_log.txt already exists, skipping [1] line of code
+14:46:05 [Setup] 2020-09-07_auditlog.txt already exists, skipping [1] line of code
+14:46:05 [Setup] users.json.txt already exists, skipping [1] line of code
+14:46:05 [Setup] settings.json.txt already exists, skipping [1] line of code
+14:46:05 [Setup] prefix.json already exists, skipping [1] line of code
+14:46:05 [Setup] settings.json.txt already exists, skipping [1] line of code
+14:46:05 [Setup] settings.json.txt already exists, skipping [1] line of code
+14:46:05 [Setup] settings.json.txt already exists, skipping [1] line of code
+14:46:06 [Setup] cogs.reaction_roles was loaded.
+14:46:06 [Setup] cogs.events was loaded.
+14:46:06 [Setup] cogs.moderation was loaded.
+14:46:06 [Setup] cogs.levels was loaded.
+14:46:06 [Setup] cogs.help was loaded.
+14:46:06 [Setup] cogs.commands was loaded.
+14:46:10 [Status] Changed to Playing !help
+14:46:10 [Bot] Ready
+14:46:40 [Status] Changed to Playing with new commands
+14:46:58 [Setup] cogs.reaction_roles was unloaded.
+14:46:58 [Setup] cogs.reaction_roles was loaded.
+14:47:10 [Status] Changed to Playing with the Manager wiki
+14:47:40 [Status] Changed to Playing !help
+14:48:10 [Status] Changed to Playing with new commands
+14:48:18 [Setup] config.txt already exists, skipping [1] line of code
+14:48:18 [Setup] 2020-09-07_log.txt already exists, skipping [1] line of code
+14:48:18 [Setup] 2020-09-07_auditlog.txt already exists, skipping [1] line of code
+14:48:18 [Setup] users.json.txt already exists, skipping [1] line of code
+14:48:18 [Setup] settings.json.txt already exists, skipping [1] line of code
+14:48:18 [Setup] prefix.json already exists, skipping [1] line of code
+14:48:18 [Setup] settings.json.txt already exists, skipping [1] line of code
+14:48:18 [Setup] settings.json.txt already exists, skipping [1] line of code
+14:48:18 [Setup] settings.json.txt already exists, skipping [1] line of code
+14:48:20 [Setup] cogs.reaction_roles was loaded.
+14:48:20 [Setup] cogs.events was loaded.
+14:48:20 [Setup] cogs.moderation was loaded.
+14:48:20 [Setup] cogs.levels was loaded.
+14:48:20 [Setup] cogs.help was loaded.
+14:48:20 [Setup] cogs.commands was loaded.
+14:48:24 [Status] Changed to Playing !help
+14:48:24 [Bot] Ready
+14:48:54 [Status] Changed to Playing with new commands
+14:49:24 [Status] Changed to Playing with the Manager wiki

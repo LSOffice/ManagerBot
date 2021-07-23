@@ -1,0 +1,3 @@
+[Audit] Guild 722000263497515009: LSOffice#3471 used command kick on LSOffice#1405
+[Audit] Guild 722000263497515009: simple#1738 used command kick on IdiotSandwich#6186
+[Audit] Guild 722000263497515009: simple#1738 used command ban on IdiotSandwich#6186

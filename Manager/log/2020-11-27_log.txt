@@ -1,0 +1,61 @@
+20:07:41 [Setup] config.txt already exists, skipping [1] line of code
+20:07:41 [Setup] 2020-11-27_log.txt already exists, skipping [1] line of code
+20:07:41 [Setup] users.json.txt already exists, skipping [1] line of code
+20:07:41 [Setup] settings.json.txt already exists, skipping [1] line of code
+20:07:41 [Setup] prefix.json already exists, skipping [1] line of code
+20:07:41 [Setup] settings.json.txt already exists, skipping [1] line of code
+20:07:41 [Setup] settings.json.txt already exists, skipping [1] line of code
+20:07:41 [Setup] settings.json.txt already exists, skipping [1] line of code
+20:07:42 [Setup] cogs.fun was loaded.
+20:07:42 [Setup] cogs.reaction_roles was loaded.
+20:07:42 [Setup] cogs.events was loaded.
+20:07:42 [Setup] cogs.moderation was loaded.
+20:07:42 [Setup] cogs.levels was loaded.
+20:07:42 [Setup] cogs.help was loaded.
+20:07:42 [Setup] cogs.commands was loaded.
+20:07:47 [Status] Changed to Playing !help
+20:07:47 [Bot] Ready
+20:08:17 [Status] Changed to Playing with new commands
+20:08:47 [Status] Changed to Playing with theManager wiki
+20:09:17 [Status] Changed to Playing Manager.io
+20:09:47 [Status] Changed to Playing with Manager#9300's code
+20:10:06 [Setup] config.txt already exists, skipping [1] line of code
+20:10:06 [Setup] 2020-11-27_log.txt already exists, skipping [1] line of code
+20:10:06 [Setup] 2020-11-27_auditlog.txt already exists, skipping [1] line of code
+20:10:06 [Setup] users.json.txt already exists, skipping [1] line of code
+20:10:06 [Setup] settings.json.txt already exists, skipping [1] line of code
+20:10:06 [Setup] prefix.json already exists, skipping [1] line of code
+20:10:06 [Setup] settings.json.txt already exists, skipping [1] line of code
+20:10:06 [Setup] settings.json.txt already exists, skipping [1] line of code
+20:10:06 [Setup] settings.json.txt already exists, skipping [1] line of code
+20:10:07 [Setup] cogs.fun was loaded.
+20:10:07 [Setup] cogs.reaction_roles was loaded.
+20:10:07 [Setup] cogs.events was loaded.
+20:10:07 [Setup] cogs.moderation was loaded.
+20:10:07 [Setup] cogs.levels was loaded.
+20:10:07 [Setup] cogs.help was loaded.
+20:10:07 [Setup] cogs.commands was loaded.
+20:10:12 [Status] Changed to Playing !help
+20:10:12 [Bot] Ready
+20:10:42 [Status] Changed to Playing with new commands
+20:11:12 [Status] Changed to Playing with theManager wiki
+20:11:42 [Status] Changed to Playing Manager.io
+20:12:12 [Status] Changed to Playing with Manager#9300's code
+20:12:33 [Error] simple#1738 has set off ErroNo[1]
+20:12:42 [Status] Changed to Playing Manager 101 on Spotify
+20:13:12 [Status] Changed to Playing !help
+20:13:40 [Audit] Action logged.
+20:13:42 [Status] Changed to Playing with new commands
+20:14:12 [Status] Changed to Playing with theManager wiki
+20:14:30 [Audit] Action logged.
+20:14:42 [Status] Changed to Playing Manager.io
+20:14:46 [Audit] Action logged.
+20:15:12 [Status] Changed to Playing with Manager#9300's code
+20:15:42 [Status] Changed to Playing Manager 101 on Spotify
+20:16:12 [Status] Changed to Playing !help
+20:16:42 [Status] Changed to Playing with new commands
+20:17:12 [Status] Changed to Playing with theManager wiki
+20:17:42 [Status] Changed to Playing Manager.io
+20:18:12 [Status] Changed to Playing with Manager#9300's code
+20:18:42 [Status] Changed to Playing Manager 101 on Spotify
+20:19:12 [Status] Changed to Playing !help
